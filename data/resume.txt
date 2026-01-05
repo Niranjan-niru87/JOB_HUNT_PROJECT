@@ -1,0 +1,7 @@
+Skills:
+Python, SQL, Git, Basic Machine Learning
+
+Projects:
+- Built a Python automation tool to process job data
+- Created a basic ML model using scikit-learn
+
